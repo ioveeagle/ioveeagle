@@ -10,3 +10,7 @@ Have a nice day! Thank you
 
  * <a href="mailto:iove22@hotmail.com">Email</a>
  * <a href="https://www.cakeresume.com/kei-hsieh">Cakeresume</a>
+
+## Publications
+-   Distractor Generation based on Text2Text Language Models with Pseudo Kullback-Leibler Divergence Regulation (ACL 2023)
+-   Extracting Crime Prosecution Elements based on Neural Machine Reading Comprehension Model (IEEE BigData 2022)
